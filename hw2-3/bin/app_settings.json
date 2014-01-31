@@ -1,0 +1,8 @@
+{
+	"proctor_server": {
+
+        "address" : "education-internal.10gen.cc",
+        "port": "80"
+
+    }
+}
