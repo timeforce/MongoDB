@@ -1,0 +1,5 @@
+db.posts.ensureIndex({"date" : -1}) # for home page
+
+db.posts.ensureIndex({"tags" : 1, "date" : -1}) # for tags
+
+db.posts.ensureIndex({"permalink" : 1}) # for permalink

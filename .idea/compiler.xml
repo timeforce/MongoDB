@@ -25,10 +25,12 @@
         <module name="hw2-2" />
         <module name="hw3-1" />
         <module name="M101J (2)" />
+        <module name="M101J (2) (org.mongodb)" />
         <module name="M101J (3)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="M101J (2) (org.mongodb)" target="1.5" />
       <module name="M101J (3)" target="1.5" />
     </bytecodeTargetLevel>
   </component>
